@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zexi Jia! You can call me Travis too 😄
+## Hi there 👋 I'm Zexi Jia! You can call me Zeron too 😄
 
 - 🔭 I’m currently pursuing my master degree in NUS
 - 🌱 I’m currently learning Software Development and Backend Technologies
